@@ -1,2 +1,2 @@
-# Python-Projects
-Python projects
+# Laboratorio mundo PC
+Practica de clases, herencia y metodos en python
